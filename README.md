@@ -2,7 +2,7 @@
 <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Supun+B+Herath;Full-Stack+Developer;Always+learning+new+things"></a>
 </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SupunBHerathHelixz&label=Profile%20views&color=0e75b6&style=flat" alt="SupunBHerathHelixz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SupunBHerath&label=Profile%20views&color=0e75b6&style=flat" alt="SupunBHerath" /> </p>
 <h3 align="center">"Discovering Tech: A Passionate IT Student's Journey"</h3>
 
 
@@ -45,14 +45,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SupunBHerathHelixz&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SupunBHerath&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SupunBHerathHelixz
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SupunBHerath
 &theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SupunBHerathHelixz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SupunBHerath&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
